@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Welcome to my test pages
 
-I'm glad you are here. I plan to talk about ...
+This will test you
+
+* this is the first
+* and the second
